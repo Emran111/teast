@@ -1,1 +1,1 @@
-chore: Preserve email.json during merges
+email.json merge=ours
